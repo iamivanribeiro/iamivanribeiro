@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
-## Stats
-
 <div>
 <a href="https://github.com/iamivanribeiro">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamivanribeiro&layout=compact&langs_count=7&theme=dark"/>
