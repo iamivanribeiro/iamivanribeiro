@@ -1,4 +1,4 @@
-# 👨‍💻 Olá! Eu sou [Seu Nome] 👋  
+# 👨‍💻 Olá! Eu sou Ivan Ribeiro 👋  
 
 ### Sobre mim
 Sou um estudante de **Engenharia de Software** na **Universidade Estácio de Sá**, com previsão de conclusão em **2025**, e um entusiasta apaixonado por tecnologia e inovação.  
