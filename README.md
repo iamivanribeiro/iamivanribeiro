@@ -57,9 +57,8 @@ Atualmente, estou focado em aprimorar minhas habilidades em programação e cont
 ---
 
 ### 📫 Contato
-- **E-mail:** seuemail@email.com  
-- **LinkedIn:** [Seu Nome no LinkedIn](https://linkedin.com/in/seu-perfil)  
-- **GitHub:** [Seu Perfil no GitHub](https://github.com/seu-usuario)  
+- **E-mail:** contact@iamivanribeiro.com 
+- **LinkedIn:** [Ivan Ribeiro](https://www.linkedin.com/in/iamivanribeiro/)  
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato para conversarmos sobre tecnologia, inovação ou colaborações!  
 🚀 **Vamos construir algo incrível juntos!**
